@@ -15,4 +15,4 @@ python app.py > index.html
 
 ### Sources
 
-* [](https://docs.microsoft.com/en-us/azure/architecture/icons/), accessed 1 February 2021
+* [Azure architecture icons](https://docs.microsoft.com/en-us/azure/architecture/icons/), accessed 1 February 2021
